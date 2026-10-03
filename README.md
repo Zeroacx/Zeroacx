@@ -15,11 +15,6 @@
 
 ---
 
-### 𒌐 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,python,java,aws,jenkins" />
-</p>
 
 ### ⚚ 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
