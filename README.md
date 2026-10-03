@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeroacx&theme=github-compact&hide_border=true&area=true" width="100%">
+</p>
 <h1 align="center">𝗠𝗲𝗲𝘁 𝐙𝗲𝗿𝗼 </h1>
 
 <p align="center">
