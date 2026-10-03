@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<h1 align="center">𝗠𝗲𝗲𝘁 𝐙𝗲𝗿𝗼 </h1>
 
 <p align="center">
   <b>DEVOPS • CLOUD • LINUX • AUTOMATION</b>
 </p>
 
 <p align="center">
-  Building real-world projects, exploring modern infrastructure,
-  and turning ideas into scalable systems.
+𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎,
+  𝚊𝚗𝚍 𝚝𝚞𝚛𝚗𝚒𝚗𝚐 𝚒𝚍𝚎𝚊𝚜 𝚒𝚗𝚝𝚘 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚜𝚢𝚜𝚝𝚎𝚖𝚜
 </p>
 
 <p align="center">
@@ -15,28 +15,27 @@
 
 ---
 
-### ⚡ What I'm Focused On
+### 𒌐 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗢𝗻
 
-- 🚀 Building scalable & real-world systems
-- ☁️ Learning DevOps, Cloud & Infrastructure
-- 🐧 Exploring Linux & automation
-- 🔧 Improving clean, maintainable code
-- 🌐 Contributing to open source
-
-### 🛠️ Tech Stack
+∘ 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 & 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜
+∘ 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙳𝚎𝚟𝙾𝚙𝚜, 𝙲𝚕𝚘𝚞𝚍 & 𝙸𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎
+∘ 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙻𝚒𝚗𝚞𝚡 & 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗
+∘ 𝙸𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗, 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚌𝚘𝚍𝚎
+∘ 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎
+### 𒌐 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,python,java,aws,jenkins" />
 </p>
 
-### 📊 GitHub Stats
+### ⚚ 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zeroacx&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroacx&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
-### 🌐 Connect With Me
+### ✚ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 
 <p align="left">
 
@@ -61,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>Build • Learn • Automate • Repeat</i>
+  <i>𝙱𝚞𝚒𝚕𝚍 • 𝙻𝚎𝚊𝚛𝚗 • 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚎 • 𝚁𝚎𝚙𝚎𝚊𝚝</i>
 </p>
