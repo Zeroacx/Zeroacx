@@ -28,27 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroacx&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
-### ✚ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 
-<p align="left">
-
-<a href="https://www.instagram.com/zerofallx67/">
-  <img src="https://img.shields.io/badge/Instagram-zerofallx67-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Zerofallx67">
-  <img src="https://img.shields.io/badge/Telegram-Zerofallx67-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/zerofall">
-  <img src="https://img.shields.io/badge/LinkedIn-zerofall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Zeroacx">
-  <img src="https://img.shields.io/badge/GitHub-Zeroacx-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
