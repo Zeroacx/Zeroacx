@@ -14,19 +14,4 @@
 </p>
 
 ---
-      
-
-### ⚚ 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeroacx&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeroacx&theme=github-dark-blue&hide_border=true" height="170"/>
-</p>
-
-
-
----
-
-<p align="center">
-  <i>𝙱𝚞𝚒𝚕𝚍 • 𝙻𝚎𝚊𝚛𝚗 • 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚎 • 𝚁𝚎𝚙𝚎𝚊𝚝</i>
-</p>
+    
