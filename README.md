@@ -1,4 +1,4 @@
-<h1 align="center">𝗠𝗲𝗲𝘁 𝐙𝗲𝗿𝗼 </h1
+<h1 align="center">𝗠𝗲𝗲𝘁 𝐙𝗲𝗿𝗼 </h1>
 
 <p align="center">
   <b>DEVOPS • CLOUD • LINUX • AUTOMATION</b>
